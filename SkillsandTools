@@ -1,0 +1,17 @@
+FIORI: Things to Learn
+1. BUILD.ME
+- Application designer
+- Nice to have: OpenSAP Design Thinking Training (teaches good app design)
+2. Check SAPUI5 Explored for sample UI5 elements.
+3. Download Eclipse
+- Connect Eclipse to SAP ECC
+4. Create sample oData in SEGW
+- Save and regenerate; a service will be created
+5. Activate the created oData service in /n/iwfnd/maint_service
+6. Test the entity sets in /n/iwfnd/gw_client
+
+Additional: 
+Know the difference between DPC and MPC in Odata.
+
+
+
